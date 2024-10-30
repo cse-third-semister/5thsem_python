@@ -26,3 +26,5 @@ else:
     print("This can not be rearranged to form a palindrome.")
 
 
+# Enter a word :  hello
+# This can not be rearranged to form a palindrome.

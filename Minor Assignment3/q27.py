@@ -17,3 +17,7 @@ def number_to_text():
     
     print(s) 
 number_to_text()
+
+
+# Enter a positive number: 10
+# one zero 

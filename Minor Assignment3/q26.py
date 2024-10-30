@@ -10,3 +10,7 @@ def replace_vowels():
     print(result)
 
 replace_vowels()
+
+
+# Enter a string: hello
+# h*ll*

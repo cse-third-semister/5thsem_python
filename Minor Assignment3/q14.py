@@ -22,3 +22,9 @@ def is_armstrong(number):
 print(is_armstrong(153))   
 print(is_armstrong(1634))  
 print(is_armstrong(123))   
+
+
+
+# True
+# True
+# False

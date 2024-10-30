@@ -13,3 +13,8 @@ def are_coprime():
         print(f"{a} and {b} are not coprime.")
 
 are_coprime()
+
+
+# Enter the first number: 10
+# Enter the second number: 20
+# 10 and 20 are not coprime.

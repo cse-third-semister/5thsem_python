@@ -11,3 +11,7 @@ if stt == s:
     print("Yes, it is a palindrome")
 else:
     print("No, it is not a palindrome")
+
+
+# Enter a string India
+# No, it is not a palindrome

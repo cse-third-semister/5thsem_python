@@ -17,3 +17,10 @@ def date():
 
 
 date()
+
+
+
+# Enter today's date (in format YYYY-MM-DD): 2024-10-30
+# Enter the number of days to add: 2 
+# New date: 2024-11-01
+# New day: Friday

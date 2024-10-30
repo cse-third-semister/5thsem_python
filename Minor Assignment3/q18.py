@@ -11,3 +11,6 @@ string1 = "Tom Marvolo Riddle"
 string2 = "I am Lord Voldemort"
 result = are_anagrams(string1, string2)
 print(result) 
+
+
+# True

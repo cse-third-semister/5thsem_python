@@ -7,3 +7,7 @@ def func(n):
 
 n = int(input("Enter a number"))
 print(func(n))
+
+
+# Enter a number 20
+# 2

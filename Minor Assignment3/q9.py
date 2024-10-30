@@ -25,3 +25,6 @@ def decimatobinary(n):
     return s
 print(binarytodecimal(10101))
 print(decimatobinary(20))
+
+# 21
+# 10100

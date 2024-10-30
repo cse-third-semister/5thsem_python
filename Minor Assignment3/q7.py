@@ -6,3 +6,6 @@ def func(c):
 
 c = input("Enter a character").lower()
 func(c)
+
+# Enter a character w
+# It is not a vowel

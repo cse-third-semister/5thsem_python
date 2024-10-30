@@ -11,3 +11,9 @@ list.sort()
 print(list[l-1])
 print(list[l-2])
 print(list[l-3])
+
+
+# Enter a number 6328
+# 8
+# 6
+# 3

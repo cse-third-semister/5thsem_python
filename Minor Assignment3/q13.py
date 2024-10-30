@@ -8,7 +8,7 @@ def romantointeger(roman):
     i = l-1
     
     while(i>=0):  
-        print(i)
+        
        
         if roman[i] == 'X' or roman[i] == 'V':
             if i > 0 and roman[i-1] == 'I': 
@@ -44,3 +44,8 @@ def romantointeger(roman):
 roman_numeral = input("Enter a Roman numeral: ")
 integer_value = romantointeger(roman_numeral)
 print(f"The integer equivalent of {roman_numeral} is {integer_value}")
+
+
+# Enter a Roman numeral: XL
+
+# The integer equivalent of XL is 40

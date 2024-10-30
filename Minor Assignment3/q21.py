@@ -6,3 +6,7 @@ def factorial():
     print("Factorial:", result)
 
 factorial()
+
+
+# Enter a number to find its factorial: 4
+# Factorial: 24

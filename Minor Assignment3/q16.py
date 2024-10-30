@@ -20,3 +20,9 @@ def calculator():
 
 result = calculator()
 print("Result:", result)
+
+
+# Enter first number: 10
+# Enter second number: 20
+# Enter operation (+, -, *, /): +
+# Result: 30.0

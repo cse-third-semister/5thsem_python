@@ -12,3 +12,7 @@ def remove_vowels(text):
 s = input("Enter a string")
 result = remove_vowels(s)
 print(result) 
+
+
+# Enter a string hello
+#  hll

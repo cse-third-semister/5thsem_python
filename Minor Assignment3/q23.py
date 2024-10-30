@@ -8,3 +8,7 @@ def vowel_indices(string):
 
 s = input("Enter a word")
 print(vowel_indices(s))
+
+
+# Enter a word hello
+# [2, 5]

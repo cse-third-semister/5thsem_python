@@ -8,3 +8,6 @@ def product_of_digits():
     print("Product of digits:", product)
 
 product_of_digits()
+
+# Enter a number: 30
+# Product of digits: 0

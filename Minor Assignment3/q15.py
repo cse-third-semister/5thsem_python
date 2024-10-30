@@ -9,3 +9,8 @@ def fibo(n):
 
 n  = int(input("Enter nth number"))
 print(f'The {n} number is {fibo(n-1)}')
+
+
+
+# Enter nth number 6
+# The 6 number is 5

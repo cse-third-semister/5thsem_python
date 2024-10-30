@@ -7,3 +7,7 @@ def func(s, l):
 s = input("Enter a string")
 l = len(s)
 print(func(s, l))
+
+
+# Enter a string hello 
+# olleh

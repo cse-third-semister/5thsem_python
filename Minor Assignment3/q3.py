@@ -6,3 +6,6 @@ def func():
     return sum
 
 print(func())
+
+
+# 22100

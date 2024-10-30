@@ -6,3 +6,15 @@ def arithmetic_progression():
         print(term)
 
 arithmetic_progression()
+
+
+# 1 
+# 3 
+# 5 
+# 7 
+# 9 
+# 11
+# 13
+# 15
+# 17
+# 19

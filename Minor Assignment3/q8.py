@@ -8,3 +8,7 @@ def func(month):
 
 month = input("Enter a month").lower()
 func(month)
+
+
+# Enter a month june
+# 31

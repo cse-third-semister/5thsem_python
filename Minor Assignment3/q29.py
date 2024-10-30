@@ -12,3 +12,7 @@ def is_perfect_number():
         print(f"{number} is not a perfect number.")
 
 is_perfect_number()
+
+
+# Enter a positive integer: 10
+# 10 is not a perfect number.
