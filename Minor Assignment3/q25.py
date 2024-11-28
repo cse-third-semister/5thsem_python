@@ -3,8 +3,11 @@ def are_coprime():
     b = int(input("Enter the second number: "))
     
     def gcd(x, y):
-        while y:
-            x, y = y, x % y
+        while y!=0:
+            rem = x %y 
+            x = y
+            y = rem
+            # x, y = y, x % y
         return x
     
     if gcd(a, b) == 1:
