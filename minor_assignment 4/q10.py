@@ -8,3 +8,6 @@ def sum_numbers(tuples):
 
 # Example usage
 sum_numbers(((1, 2), (3.5, 4), (5, 6)))
+
+
+# 21.5

@@ -13,3 +13,9 @@ average = total_sum / N if N > 0 else 0
 # Output results
 print(f"List: {random_list}")
 print(f"Sum: {total_sum}, Average: {average:.2f}")
+
+
+
+# Enter the size of the list: 4
+# List: [21, 90, 40, 44]    
+# Sum: 195, Average: 48.75  

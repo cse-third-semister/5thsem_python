@@ -29,3 +29,21 @@ print(f"Median: {median}")
 print(f"Mode: {mode}")
 print(f"Variance: {variance:.2f}")
 print(f"Standard Deviation: {std_dev:.2f}")
+
+
+# Frequency of each rating:
+# Rating 1: 3
+# Rating 2: 4
+# Rating 3: 8
+# Rating 4: 2
+# Rating 5: 3
+
+# Response Statistics:
+# Minimum: 1
+# Maximum: 5
+# Range: 4
+# Mean: 2.90
+# Median: 3.0
+# Mode: 3
+# Variance: 1.57
+# Standard Deviation: 1.25

@@ -31,3 +31,11 @@ for j in range(4):
 # Output the results
 print(f"The largest row index: {row}")
 print(f"The largest column index: {col}")
+
+
+# 0010
+# 1010
+# 1010
+# 1100
+# The largest row index: 1   
+# The largest column index: 0

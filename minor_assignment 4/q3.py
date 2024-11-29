@@ -34,3 +34,35 @@ while True:
         break
     else:
         print("Invalid choice.")
+
+
+# Menu:
+# 1. Create a list     
+# 2. Display the list  
+# 3. Insert an element 
+# 4. Delete an element 
+# 5. Exit
+# Enter your choice: 1 
+# Enter the size of the list: 4
+# Enter element 1: 1
+# Enter element 2: 2
+# Enter element 3: 3
+# Enter element 4: 4
+
+# Menu:
+# 1. Create a list
+# 2. Display the list
+# 3. Insert an element
+# 4. Delete an element
+# 5. Exit
+# Enter your choice: 2
+# List elements: [1, 2, 3, 4]
+
+# Menu:
+# 1. Create a list
+# 2. Display the list
+# 3. Insert an element
+# 4. Delete an element
+# 5. Exit
+# Enter your choice: 5
+# Exiting the program.

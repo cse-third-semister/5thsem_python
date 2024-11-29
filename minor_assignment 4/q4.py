@@ -7,3 +7,8 @@ my_list = [item for item in my_list if item != element_to_remove]
 
 # Output the updated list
 print("Updated list:", my_list)
+
+
+
+# Enter the element to remove: 4
+# Updated list: [1, 2, 3, 2, 2, 5]

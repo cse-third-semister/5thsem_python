@@ -7,3 +7,8 @@ filtered_list = list(filter(lambda x: len(x)!=K ,list_of_tuples))
 
 # Output: Filtered list
 print("Filtered list:", filtered_list)
+
+
+
+# Enter the length of tuples to remove: 2
+# Filtered list: [(3,), (4, 5, 6), (), (9, 10, 11, 12)]

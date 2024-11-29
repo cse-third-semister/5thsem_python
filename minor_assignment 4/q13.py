@@ -3,3 +3,6 @@
 lst = [(1, 2), (3, 1), (5, 4)]
 sorted_lst = sorted(lst, key=lambda x: x[1])
 print("Sorted list:", sorted_lst)
+
+
+# Sorted list: [(3, 1), (1, 2), (5, 4)]

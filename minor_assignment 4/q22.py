@@ -15,3 +15,7 @@ reversed_result = list(filter(lambda x: x % 2 == 0, map(lambda x: x * 2, numbers
 # Print the results
 print("Original Result (filter first, map second):", original_result)
 print("Reversed Result (map first, filter second):", reversed_result)
+
+
+# Original Result (filter first, map second): [20, 8, 4, 16, 12]
+# Reversed Result (map first, filter second): [20, 6, 14, 2, 18, 8, 4, 16, 10, 12]
